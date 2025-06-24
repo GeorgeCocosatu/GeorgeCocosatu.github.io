@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Typography, Container, Grid, Paper, Avatar, Button } from '@mui/material';
+import { Box, Typography, Container, Grid, Paper, Avatar } from '@mui/material';
 import { motion } from 'framer-motion';
 
 const About = () => {
